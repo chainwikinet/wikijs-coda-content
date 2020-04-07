@@ -2,32 +2,19 @@
 title: Home
 description: Welcome to the Coda Wiki
 published: true
-date: 2020-04-07T08:40:10.251Z
+date: 2020-04-07T22:47:43.106Z
 tags: 
 ---
 
-# Welcome to the Coda Protocol Wiki
+# Welcome
 This wiki is maintained by the Coda community.
 CodaProtocol.com -- [Discord](http://bit.ly/3ciFi8Q) -- [Forums](https://forums.codaprotocol.com/) -- [Genesis](https://codaprotocol.com/genesis) -- [Twitter](https://twitter.com/codaprotocol)
 
-## About Coda
-- [Coda Press Mentions](press)
-- [Introduction to SNARKs](snarks)
-- [Smart Contracts on Coda](smart-contracts)
-- [Coda Whitepaper](whitepaper)
-- [Coda Team](team)
-- [Meetups](meetups)
-- [Translations](translations)
-- [Social Media Accounts](social)
-
-## Developer Quickstart
-- [Join the Coda Testnet](testnet)
-- [Helpful Coda CLI Commands](cli-commands)
-- [Coda Client Libraries](client-libraries)
-
-## Genesis
-- [Coda Genesis Token Program](genesis-program)
-
 ## Contribute to the Wiki
-- [Start contributing here](about)
+
+Log in with GitHub or Discord to contribute.
+
+Prefer to contribute on GitHub?  [Pull requests accepted](https://github.com/codacommunity/wikijs-coda-content).
+
+- [Contribution Guide](about)
 - [About WikiJS](https://wiki.js.org/)
