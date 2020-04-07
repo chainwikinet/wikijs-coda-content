@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Coda Wiki
 published: true
-date: 2020-04-07T22:48:28.469Z
+date: 2020-04-07T22:49:56.349Z
 tags: 
 ---
 
@@ -15,5 +15,5 @@ Log in with GitHub or Discord to contribute.
 
 Prefer to contribute on GitHub?  [Pull requests accepted](https://github.com/codacommunity/wikijs-coda-content).
 
-- [Contribution Guide](about)
+- [Contribution Guide](contribute)
 - [About WikiJS](https://wiki.js.org/)
