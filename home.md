@@ -2,14 +2,14 @@
 title: Home
 description: Welcome to the Coda Wiki
 published: true
-date: 2020-04-08T19:07:28.015Z
+date: 2020-04-08T19:07:40.561Z
 tags: 
 ---
 
 This wiki is maintained by the Coda community.
 CodaProtocol.com -- [Discord](http://bit.ly/3ciFi8Q) -- [Forums](https://forums.codaprotocol.com/) -- [Genesis](https://codaprotocol.com/genesis) -- [Twitter](https://twitter.com/codaprotocol)
 
-## Contribute to the Wikii
+## Contribute to the Wiki
 
 Log in with GitHub or Discord to contribute.
 
