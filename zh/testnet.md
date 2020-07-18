@@ -2,7 +2,7 @@
 title: Coda Testnet Setup (Simplified Chinese)
 description: 
 published: true
-date: 2020-07-18T06:44:33.559Z
+date: 2020-07-18T06:45:02.529Z
 tags: 
 editor: markdown
 ---
