@@ -2,7 +2,7 @@
 title: Wiki Contribution Guide
 description: 
 published: true
-date: 2020-08-21T08:15:07.475Z
+date: 2020-08-21T08:15:22.696Z
 tags: 
 editor: markdown
 ---
@@ -20,7 +20,7 @@ Some changes to the site, like adding your new page to the navigation sidebar, w
 
 # Contribute with GitHub
 
-The contents of the wiki are automatically synchronized with this repository in GitHub: https://github.com/codacommunity/wikijs-coda-content
+The contents of the wiki are automatically synchronized with this repository in GitHub: https://github.com/chainwikinet/wikijs-coda-content
 
 Sign up for a GitHub account.  Then, use the GitHub UI to propose changes to the content.  When you are satisfied with your changes, submit a "pull request" to request that your changes are merged into the wiki.
 
