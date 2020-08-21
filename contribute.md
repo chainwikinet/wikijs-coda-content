@@ -2,8 +2,9 @@
 title: Wiki Contribution Guide
 description: 
 published: true
-date: 2020-04-08T19:17:08.521Z
+date: 2020-08-21T08:15:07.475Z
 tags: 
+editor: markdown
 ---
 
 # Contribute with the Wiki UI
@@ -14,7 +15,7 @@ Contributing is easy!  Create and edit pages within seconds by signing in with t
 2. Select what kind of account you'd like to sign in with. The wiki currently supports GitHub; Discord and others may be added soon.
 3. Start contributing!  Create new pages and edit existing ones.
 
-Some changes to the site, like adding your new page to the navigation sidebar, will require help from a wiki manager. Post in the `#codawiki` for assistance.
+Some changes to the site, like adding your new page to the navigation sidebar, will require help from a wiki manager. Post in the `#codawiki` channel on Discord for assistance.
 
 
 # Contribute with GitHub
